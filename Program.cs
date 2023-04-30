@@ -11,7 +11,8 @@ namespace Parallel_Programmin_In_DotNet // Note: actual namespace depends on the
             // CreatingAndStartingTasks.Start(args);
             // CancelingTasks.Start(args);
             // WaitingForTimeToPass.Start(args);
-            WaitingForTasks.Start(args);
+            // WaitingForTasks.Start(args);
+            ExceptionHandling.Start();
         }
     }
 }
