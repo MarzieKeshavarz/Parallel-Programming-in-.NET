@@ -2,7 +2,7 @@
 using System.Diagnostics.PerformanceData;
 using System.Threading.Tasks;
 
-namespace Parallel_Programmin_In_DotNet.Courses
+namespace Parallel_Programmin_In_DotNet.Task_Programming
 {
     public class CreatingAndStartingTasks
     {

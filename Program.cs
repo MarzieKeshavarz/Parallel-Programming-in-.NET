@@ -1,5 +1,5 @@
 ﻿using System;
-using Parallel_Programmin_In_DotNet.Courses;
+using Parallel_Programmin_In_DotNet.Task_Programming;
 
 namespace Parallel_Programmin_In_DotNet // Note: actual namespace depends on the project name.
 {
@@ -8,7 +8,8 @@ namespace Parallel_Programmin_In_DotNet // Note: actual namespace depends on the
         public static void Main(string[] args)
         {
 
-            CreatingAndStartingTasks.Start(args);
+           // CreatingAndStartingTasks.Start(args);
+            CancelingTasks.Start(args);
 
         }
     }
