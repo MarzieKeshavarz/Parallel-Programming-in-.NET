@@ -1,0 +1,15 @@
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\Parallel_Programmin_In_DotNet.csproj.AssemblyReference.cache
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\Parallel_Programmin_In_DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\Parallel_Programmin_In_DotNet.AssemblyInfoInputs.cache
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\Parallel_Programmin_In_DotNet.AssemblyInfo.cs
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\Parallel_Programmin_In_DotNet.csproj.CoreCompileInputs.cache
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\bin\Debug\net6.0\Parallel_Programmin_In_DotNet.exe
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\bin\Debug\net6.0\Parallel_Programmin_In_DotNet.deps.json
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\bin\Debug\net6.0\Parallel_Programmin_In_DotNet.runtimeconfig.json
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\bin\Debug\net6.0\Parallel_Programmin_In_DotNet.dll
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\bin\Debug\net6.0\ref\Parallel_Programmin_In_DotNet.dll
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\bin\Debug\net6.0\Parallel_Programmin_In_DotNet.pdb
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\Parallel_Programmin_In_DotNet.dll
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\ref\Parallel_Programmin_In_DotNet.dll
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\Parallel_Programmin_In_DotNet.pdb
+D:\Projects\Parallel Programming\Parallel_Programmin_In_DotNet\obj\Debug\net6.0\Parallel_Programmin_In_DotNet.genruntimeconfig.cache
