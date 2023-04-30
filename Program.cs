@@ -8,9 +8,9 @@ namespace Parallel_Programmin_In_DotNet // Note: actual namespace depends on the
         public static void Main(string[] args)
         {
 
-           // CreatingAndStartingTasks.Start(args);
-            CancelingTasks.Start(args);
-
+            // CreatingAndStartingTasks.Start(args);
+            // CancelingTasks.Start(args);
+            WaitingForTimeToPass.Start(args);
         }
     }
 }
