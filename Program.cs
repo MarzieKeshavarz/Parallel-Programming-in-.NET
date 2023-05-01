@@ -16,7 +16,8 @@ namespace Parallel_Programmin_In_DotNet // Note: actual namespace depends on the
             // ExceptionHandling.Start();
             // CriticalSections.Start();
             // InterlockedOperations.Start();
-            SpinLocking.Start();
+            // SpinLocking.Start();
+            MutexExample.Start();
         }
     }
 }
