@@ -1,4 +1,5 @@
 ﻿using System;
+using Parallel_Programmin_In_DotNet.Data_Sharing_And_Syncronization;
 using Parallel_Programmin_In_DotNet.Task_Programming;
 
 namespace Parallel_Programmin_In_DotNet // Note: actual namespace depends on the project name.
@@ -12,7 +13,8 @@ namespace Parallel_Programmin_In_DotNet // Note: actual namespace depends on the
             // CancelingTasks.Start(args);
             // WaitingForTimeToPass.Start(args);
             // WaitingForTasks.Start(args);
-            ExceptionHandling.Start();
+            // ExceptionHandling.Start();
+            CriticalSections.Start();
         }
     }
 }
