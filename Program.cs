@@ -15,7 +15,8 @@ namespace Parallel_Programmin_In_DotNet // Note: actual namespace depends on the
             // WaitingForTasks.Start(args);
             // ExceptionHandling.Start();
             // CriticalSections.Start();
-            InterlockedOperations.Start();
+            // InterlockedOperations.Start();
+            SpinLocking.Start();
         }
     }
 }
